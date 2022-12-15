@@ -55,6 +55,52 @@ header {
     padding-top: 25px
 }
 
+.boxs {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 25px;
+    margin-bottom: 80px;
+}
+
+.box {
+    border: 8px solid black;
+}
+
+#para-graph {
+    font-size: larger;
+    font-family: cursive;
+    text-align: center;
+}
+
+.paragraph {
+    text-align: center;
+    background-color: rgb(235, 235, 224);
+    padding-top: 50px;
+    padding-bottom: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.lastpara {
+    background-color: rgb(26, 140, 255);
+    width: 700px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;    
+    margin-top: 50px;  
+    border-radius: 8px;
+    margin-left: 320px;
+}
+
+.up {
+    background-color: rgb(26, 140, 255);
+    border: 1px solid white;
+    border-radius: 5px;
+    width: 80px;
+}
+
+/* .adidas { */
+    /* border: 8px solid black; */
+/* } */
 /* .imgone { */
     /* height: auto; */
     /* width: 200px; */
